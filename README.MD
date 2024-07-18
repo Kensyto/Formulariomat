@@ -32,5 +32,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Nesse projeto iremos desenvolver um Formulário de matrícula para uma escola de educação infantil. 
-Vamos trabalhar com diversos tipos de input além de rever e treinar bastante o nosso CSS.
+Nesse projeto  desenvolvi um Formulário de matrícula para uma escola de educação infantil. 
+Trabalhei com diversos tipos de input além de rever e treinar bastante o nosso CSS.
